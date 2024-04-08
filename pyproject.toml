@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "idoft-retriever"
+version = "0.1.0"
+description = ""
+authors = ["hkr-kubo <u860243a@ecs.osaka-u.ac.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.1"
+aiohttp = "^3.9.3"
+matplotlib = "^3.8.4"
+tqdm = "^4.66.2"
+simplejson = "^3.19.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
