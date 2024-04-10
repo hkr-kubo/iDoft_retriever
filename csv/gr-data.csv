@@ -1,4 +1,4 @@
-ProjectURL,SHA Detected,Module Path,FullyQualifiedTestName,Category,,Status,PRLink,Notes
+ProjectURL,SHADetected,Module Path,FullyQualifiedTestName,Category,,Status,PRLink,Notes
 https://github.com/aim42/htmlSanityCheck,619caf4fadb53a797d4ed68027ce3f3704fe6a03,.,org.aim42.htmlsanitycheck.check.BrokenCrossReferencesCheckerTest.testTwoBrokenLinks,ID,,Accepted,https://github.com/aim42/htmlSanityCheck/pull/311,
 https://github.com/akud/modular-java-example,438bc99147e45aa3a6c81f5211fdfdbc3641ea9f,authentication-client,com.alexkudlick.authentication.models.AuthenticationRequestTest.testSerialize,ID,data_order(json),Accepted,https://github.com/akud/modular-java-example/pull/3,
 https://github.com/akud/modular-java-example,438bc99147e45aa3a6c81f5211fdfdbc3641ea9f,authentication-models,com.alexkudlick.authentication.client.AuthenticationClientTest.testCreateUser,ID,,Accepted,https://github.com/akud/modular-java-example/pull/4,
