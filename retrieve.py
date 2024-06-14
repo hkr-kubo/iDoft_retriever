@@ -121,7 +121,7 @@ def get_fully_qualified_file_name(fqn: str):
         except:
             return None
     else:
-        pattern = r"^(.+)\.[^\.]*$"
+        pattern = r"^(.+)$"
         result = re.match(pattern, fqn)
         try:
             return f"{result.group(1)}.java"
